@@ -13,7 +13,7 @@ Project was created with React Native!
 ##### Home Page
 ![plot](assets/anasayfa.png)
 
-##### Searching
+##### Detail Page
 ![plot](assets/detay.png)
 
 
