@@ -17,7 +17,7 @@ Project was created with React Native!
 ![plot](assets/detay.png)
 
 ##### Video
-![plot](assets/video.mov)
+![](assets/video.mov)
 
 
 
