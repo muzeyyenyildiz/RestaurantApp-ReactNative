@@ -16,8 +16,7 @@ Project was created with React Native!
 ##### Searching
 ![plot](assets/detay.png)
 
-##### Video
-![](assets/video.mov)
+
 
 
 
